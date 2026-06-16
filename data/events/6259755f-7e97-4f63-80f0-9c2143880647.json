@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "bd5d46c1-1773-4512-8c41-67d1461070f7": {
+      "label": "Tom Scott and Irving Finkle playing the Royal Game of Ur",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=WZskjLq040I&t=436s",
+      "duration": 1532
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Tom Scott and Irving Finkle playing the Royal Game of Ur",
+  "created_at": "2026-06-16T15:25:10.257Z",
+  "created_by": "Aheartgirl",
+  "updated_at": "2026-06-16T15:25:10.257Z",
+  "updated_by": "Aheartgirl"
+}
