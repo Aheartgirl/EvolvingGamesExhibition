@@ -1,22 +1,5 @@
 {
-  "annotations": [
-    {
-      "start_time": 0,
-      "end_time": 28,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Irving Finkle explains the historical origins of the Royal Game of Ur"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "587bfad1-0128-44eb-ab78-54fc6fd2e19d"
-    }
-  ],
+  "annotations": [],
   "set": "Default",
   "event_id": "6259755f-7e97-4f63-80f0-9c2143880647",
   "source_id": "bd5d46c1-1773-4512-8c41-67d1461070f7"
