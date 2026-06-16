@@ -1,5 +1,101 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ancient Sumeria was a collection of city-states, each run by its own king, in the area of South-Central Iraq. Sumeria is also known for developing the earliest form of writing, cunieform, which Finkle has studied extensively"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Historical context"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sumeria"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Finkle"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Context"
+        }
+      ],
+      "uuid": "e5a005fc-9af6-45f7-b2fc-25c72ed4b237"
+    },
+    {
+      "start_time": 60,
+      "end_time": 74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dr Irving Finkel is Assistant Keeper of the Ancient Mesopotamian script, languages and cultures department at the British Museum. This tone of joke is characteristic of Finkle."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Finkle"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "scholars"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "historians"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Joke"
+        }
+      ],
+      "uuid": "01aec05a-b2be-4dd3-846c-e46e2381cda8"
+    },
+    {
+      "start_time": 106,
+      "end_time": 151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The British Museum's catalogue entry for the original object can be found here: https://www.britishmuseum.org/collection/object/W_1928-1009-378"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Historical context"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "object"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "museum"
+        }
+      ],
+      "uuid": "e43a943a-1e3d-42e7-aa26-73c9363b6eb2"
+    }
+  ],
   "set": "Default",
   "event_id": "6259755f-7e97-4f63-80f0-9c2143880647",
   "source_id": "bd5d46c1-1773-4512-8c41-67d1461070f7"
