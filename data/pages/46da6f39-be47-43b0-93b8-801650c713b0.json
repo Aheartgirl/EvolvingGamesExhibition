@@ -4,7 +4,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
+          "text": "\n",
+          "textSize": "heading-one"
         }
       ]
     },
@@ -13,10 +14,12 @@
       "children": [
         {
           "text": "“Play is older than culture, for culture, however\ninadequately defined, always presupposes human society, and animals have not\nwaited for man to teach them their playing” – ",
-          "italic": true
+          "italic": true,
+          "textSize": "heading-one"
         },
         {
-          "text": "Johan Huizinga, Homo Ludens, 1."
+          "text": "Johan Huizinga, Homo Ludens, 1.",
+          "textSize": "heading-one"
         }
       ],
       "align": "center"
@@ -25,7 +28,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "",
+          "textSize": "heading-one"
         }
       ]
     },
@@ -33,7 +37,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Boardgames have existed for thousands of years, and there\nare manifold ways that analogue games, particularly historical ones, have\ninfluenced modern gaming culture and, as the quote from Huizinga suggests, play\nis much, much older than the digital world, and, indeed, is one of the\nfundamental conditions of humanity."
+          "text": "Boardgames have existed for thousands of years, and there\nare manifold ways that analogue games, particularly historical ones, have\ninfluenced modern gaming culture and, as the quote from Huizinga suggests, play\nis much, much older than the digital world, and, indeed, is one of the\nfundamental conditions of humanity.",
+          "textSize": "heading-one"
         }
       ],
       "align": "left"
@@ -42,7 +47,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "But what does it mean to be playful? How has our play\nchanged and adapted over time?"
+          "text": "But what does it mean to be playful? How has our play\nchanged and adapted over time?",
+          "textSize": "heading-one"
         }
       ],
       "align": "left"
@@ -51,7 +57,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n\nThroughout this project, you will see different\nexamples of boardgames found in the archaeological record. Some will feel very\nfamiliar to you, and some might barely seem like boardgames at all. In each\ncase, these games were played by people just like us if not for a quirk of\ntemporality and geography. We invite you to step back and see what playing in\nthe past was like, and why people still find these games important today.\n"
+          "text": "\n\nThroughout this project, you will see different\nexamples of boardgames found in the archaeological record. Some will feel very\nfamiliar to you, and some might barely seem like boardgames at all. In each\ncase, these games were played by people just like us if not for a quirk of\ntemporality and geography. We invite you to step back and see what playing in\nthe past was like, and why people still find these games important today.\n",
+          "textSize": "heading-one"
         }
       ]
     },
@@ -92,12 +99,12 @@
   ],
   "created_at": "2026-06-15T19:19:51.715Z",
   "created_by": "Aheartgirl",
-  "title": "Envolving Games",
-  "updated_at": "2026-06-18T15:54:09.755Z",
+  "title": "Evolving Games",
+  "updated_at": "2026-06-18T17:33:22.500Z",
   "updated_by": "Aheartgirl",
   "autogenerate": {
     "enabled": false,
     "type": "home"
   },
-  "slug": "envolving-games"
+  "slug": "evolving-games"
 }
