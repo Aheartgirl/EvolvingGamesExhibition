@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "7590b3ff-9d2b-407c-beb6-a76c4d155155": {
+      "label": "Mehen overview",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/shorts/lnSoPfyvKPY",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Mehen overview",
+  "av_file_order": [
+    "7590b3ff-9d2b-407c-beb6-a76c4d155155"
+  ],
+  "created_at": "2026-06-18T18:22:41.517Z",
+  "created_by": "AbbieHartman",
+  "updated_at": "2026-06-18T18:22:41.517Z",
+  "updated_by": "AbbieHartman"
+}
