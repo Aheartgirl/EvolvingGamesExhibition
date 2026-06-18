@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "6259755f-7e97-4f63-80f0-9c2143880647",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-06-16T15:25:10.441Z",
   "created_by": "Aheartgirl",
   "title": "Tom Scott and Irving Finkel playing the Royal Game of Ur",
   "slug": "tom-scott-and-irving-finkel-playing-the-royal",
-  "updated_at": "2026-06-16T15:25:10.441Z",
+  "updated_at": "2026-06-18T17:44:11.061Z",
   "updated_by": "Aheartgirl",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "6259755f-7e97-4f63-80f0-9c2143880647"
   }
