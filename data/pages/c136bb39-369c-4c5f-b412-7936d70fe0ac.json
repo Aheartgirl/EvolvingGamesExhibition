@@ -1,0 +1,93 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "While a cuneiform was found that enbaled Irving Finkel to deduce the rules for the "
+        },
+        {
+          "text": "Royal Game of Ur",
+          "italic": true,
+          "link": "https://abbiehartman.github.io/EvolvingGamesExhibition/pages/the-royal-game-of-ur/"
+        },
+        {
+          "text": ", there have been no explanatory texts found about the rules of "
+        },
+        {
+          "text": "Mehen. ",
+          "italic": true
+        },
+        {
+          "text": "As a result, the actual rules for"
+        },
+        {
+          "text": " Mehen",
+          "italic": true
+        },
+        {
+          "text": " have been extensively debated, with a "
+        },
+        {
+          "text": "2024 reappraisal undertaken by James Masters ",
+          "link": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://more.bham.ac.uk/birminghamegyptology/wp-content/uploads/sites/54/2024/09/masters_mehen_final.pdf"
+        },
+        {
+          "text": "to try and synthesis all available evidence to create a standard ruleset. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "italic": true
+        }
+      ]
+    }
+  ],
+  "title": "Mehen",
+  "parent": "46da6f39-be47-43b0-93b8-801650c713b0",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "mehen",
+  "created_at": "2026-06-18T18:11:57.264Z",
+  "created_by": "AbbieHartman",
+  "updated_at": "2026-06-18T18:11:57.264Z",
+  "updated_by": "AbbieHartman"
+}
