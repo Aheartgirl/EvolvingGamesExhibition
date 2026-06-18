@@ -1,12 +1,21 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-06-15T19:19:51.715Z",
   "created_by": "Aheartgirl",
   "title": "Envolving Games: A Student-led Exhibition",
-  "updated_at": "2026-06-15T19:19:51.715Z",
+  "updated_at": "2026-06-18T15:33:14.125Z",
   "updated_by": "Aheartgirl",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "home"
   }
 }
